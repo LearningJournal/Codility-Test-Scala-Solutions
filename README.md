@@ -3,6 +3,21 @@
  ### Iterations
 * [BinaryGap (100%)](src/main/scala/guru/learningjournal/codility/scala/BinaryGap.scala)
 
+ ### Arrays
+* [OddOccurrencesInArray (100%)](src/main/scala/guru/learningjournal/codility/scala/OddOccurrencesInArray.scala)
+* [CyclicRotation (100%)](src/main/scala/guru/learningjournal/codility/scala/CyclicRotation.scala)
+
+ ### Time Complexity
+* [FrogJmp (100%)](src/main/scala/guru/learningjournal/codility/scala/FrogJmp.scala)
+* [PermMissingElem (100%)](src/main/scala/guru/learningjournal/codility/scala/PermMissingElem.scala)
+* [TapeEquilibrium (100%)](src/main/scala/guru/learningjournal/codility/scala/TapeEquilibrium.scala)
+
+ ### Counting Elements
+* [PermCheck (100%)](src/main/scala/guru/learningjournal/codility/scala/PermCheck.scala)
+* [FrogRiverOne (100%)](src/main/scala/guru/learningjournal/codility/scala/FrogRiverOne.scala)
+* [MaxCounters (100%)](src/main/scala/guru/learningjournal/codility/scala/MaxCounters.scala) 
+* [MissingInteger (100%)](src/main/scala/guru/learningjournal/codility/scala/MissingInteger.scala) 
+
 
 License
 ---------
