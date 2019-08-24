@@ -1,0 +1,7 @@
+# Leave entire .idea folder
+.idea/*
+*/*.iml
+
+# Leave target directory
+target/*
+project/*
